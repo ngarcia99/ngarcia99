@@ -27,3 +27,11 @@ body {
   background-image: url(http://www.bestpsdfreebies.com/wp-content/uploads/2014/05/shards_pattern.jpg);
   background-size: auto;
 }
+
+#img1{
+  width:50%;
+  height: 50%;
+  margin: 25px;
+  border: 3px ridge red;
+  padding: 0px;
+}
