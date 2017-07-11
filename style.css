@@ -1,0 +1,22 @@
+#title1 {
+  text-align: center;
+  border: 5px ridge #03317a;
+  background-color: #eff5ff;
+  padding:5px;
+}
+.body {
+ border: 5px ridge #03317a;
+  background-color: #eff5ff;
+  padding:5px;
+}
+
+.points {
+  display: table;
+  margin:0 auto;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  color: #0146b5
+}
