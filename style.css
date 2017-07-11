@@ -3,6 +3,8 @@
   border: 5px ridge #03317a;
   background-color: #eff5ff;
   padding:5px;
+  width: 50%;
+  margin:auto;
 }
 .body {
  border: 5px ridge #03317a;
