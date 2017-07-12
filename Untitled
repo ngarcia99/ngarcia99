@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="untitled.css">
+    <title>page</title>
+  </head>
+  <body>
+
+    <div id="header">
+      <div id="header text">
+        <h1>hi welcome to my profile page</h1>
+      </div>
+    </div>
+
+    <div id="main">
+      <div id="left">
+        <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/static/blog/images/google-200x200.7714256da16f.png"></img>
+      </div>
+      <div id="right">
+        <div id="top">bbbbbb</div>
+        <div id="bottom">bbbbbbbbbb</div>
+      </div>
+    </div>
+
+
+    <div id="footer">
+      <div class="footertext">
+        <h3>My Contacts</h3>
+        <p>crepric@gmail.com<br>
+        crepric@google.com</p>
+      </div>
+      <div class="footertext">
+        <h3>Social Media</h3>
+        <p>Facebook<br>
+        Twitter</p>
+      </div>
+    </div>
+
+
+  </body>
+</html>
