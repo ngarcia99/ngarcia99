@@ -5,11 +5,13 @@
   padding:5px;
   width: 50%;
   margin:auto;
+  font-family: 'Ubuntu', sans-serif;
 }
 .body {
  border: 5px ridge #03317a;
   background-color: #eff5ff;
   padding:5px;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .points {

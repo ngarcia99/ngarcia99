@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
     <title>Blogasaurus</title>
   </head>
   <body>
@@ -13,5 +14,15 @@
           <li class="listtext"><a href="post.html">Blog</a></li>
         </ul>
       </div>
+      <div class="survey">
+        <textarea name="comment" form="usrform">Comments</textarea></div>
+        <form action="/action_page.php" id="usrform">
+          <input type="submit">
+        </form>
+        <script>
+        function submitform() {
+          document.getElementById("usrform").submit();
+        }
+        </script>
   </body>
 </html>
