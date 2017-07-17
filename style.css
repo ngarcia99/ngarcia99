@@ -92,3 +92,33 @@ font-weight:700;
 cursor:pointer;
 font-family:'Ubuntu',sans-serif
 }
+
+#Summary{
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1
+}
+
+#Hometown {
+  display: flex;
+  flex-direction: column;
+}
+
+#University{
+  display: flex;
+  flex-direction: column;
+}
+
+#Other_Profiles{
+  display: flex;
+  flex-direction: column;
+
+}
+
+#Movies {
+  display: flex;
+  flex-direction: column;
+}
+#img2{
+  display: flex;
+}
